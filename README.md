@@ -9,8 +9,8 @@ Your task is to help Dr. Wesley calculate the average marks of the students.
 </p>
 
 **Note:**  
-<font size="3">1. Columns can be in any order. IDs, marks, class and name can be written in any order in the spreadsheet.</font>  
-<font size="3">2. Column names are ID, MARKS, CLASS and NAME. (The spelling and case type of these names won't change.)</font>  
+<font size="3"> 1. Columns can be in any order. IDs, marks, class and name can be written in any order in the spreadsheet.</font>  
+<font size="3"> 2. Column names are ID, MARKS, CLASS and NAME. (The spelling and case type of these names won't change.)</font>  
 
 **Input Format**
 
