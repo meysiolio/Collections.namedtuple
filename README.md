@@ -5,7 +5,7 @@ Dr. John Wesley has a spreadsheet containing a list of student's ***IDs, marks, 
 Your task is to help Dr. Wesley calculate the average marks of the students.  
   
 <p align="center">
-    <img src="http://www.sciweavers.org/tex2img.php?eq=%20Average%20%3D%20%5Cfrac%7BSum%5C%3Bof%5C%3Ball%5C%3Bmarks%7D%7BTotal%5C%3Bstudents%7D%20&bc=White&fc=Black&im=jpg&fs=12&ff=modern&edit=0" align="center" border="0" alt=" Average = \frac{Sum\;of\;all\;marks}{Total\;students} " width="221" height="36" />
+    <img src="https://bit.ly/3mIb5Gp" align="center" border="0" alt=" Average = \frac{Sum\;of\;all\;marks}{Total\;students} " width="221" height="36" />
 </p>
 
 **Note:**  
